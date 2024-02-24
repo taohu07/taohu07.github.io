@@ -2,7 +2,7 @@
 layout: post
 title: Ehsan received Scholarship
 date: 2024-01-09 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 :sparkles: PhD student <mark>Ehsan Foroutan</mark> is selected for the $1,500 SCAUG Regional Scholarship! <a href='https://www.scaug.org/Regional-SCAUG-Scholarship'>More info</a>
