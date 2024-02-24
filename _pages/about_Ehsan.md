@@ -1,1 +1,1 @@
-PhD student
+Ehsan Foroutan is a PhD student in the Department of Geography at Oklahoma State University. His research focus on leveraging geospatial analytics in population health in the context of climate change. He is passionate about GIScience, and he strives to develop a new way of analyzing the spatial data through different modeling approaches. His professional work experience covers fields such as GIS, land use change modeling, environmental modeling, application of GNSS, and location-allocation problems. 
