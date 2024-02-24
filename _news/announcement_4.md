@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-PhD student Ehsan Foroutan was awarded the 1st place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
+:sparkles: PhD student Ehsan Foroutan was awarded the 1st place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
