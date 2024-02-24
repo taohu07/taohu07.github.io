@@ -1,4 +1,3 @@
-p---
 layout: about
 title: about
 permalink: /
