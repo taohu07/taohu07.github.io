@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Tao
-middle_name: R.
+middle_name: 
 last_name: Hu
 email: tao.hu@okstate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1200px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
