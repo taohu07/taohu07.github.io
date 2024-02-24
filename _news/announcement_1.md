@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: PhD student Una Yu was awarded the 2nd place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
+date: 2023-11-07 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+PhD student Una Yu was awarded the 2nd place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
