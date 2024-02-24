@@ -9,7 +9,7 @@ profile:
   image: people_taohu.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>337 Social Science and Humanities Building</p>
+    <p>337 Social Science & Humanities</p>
     <p>Oklahoma State University</p>
     <p>Stillwater, Oklahoma 74078</p>
 
