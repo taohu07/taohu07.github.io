@@ -29,10 +29,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm an Assistant Professor in the Department of Geography at Oklahoma State University. Before joining OSU, I was a postdoc research fellow in the Center for Geographic Analysis (CGA) at Harvard University and the Department of Geography at Kent State University. My research interests focus on leveraging multi-source geospatial big data (e.g., remote sensing images, Google Street View images, geolocated social media data, and smartphone users' mobility data) and advanced spatial statistical and GeoAI (Geospatial Artificial Intelligence) models to address pressing challenges in population health and environmental health, such as health disparities and heat vulnerabilities. I have published more than 60 peer-reviewed articles with 5 ESI Highly Cited papers (top 1%). My research have been supported by National Science Foundation (NSF) and United States Department of Agriculture (USDA).
 
-Research Interests
--Geospatial Big Data Analytics
--Human Behavior and Population Health
--Geospatial Artificial Intelligence (GeoAI)
-<br/>
--GeoHealth
--Geolocated Social Media Analysis
+<span class="highlight">Research Interests:</span>: Geospatial Big Data Analytics, Human Behavior and Population Health, Geospatial Artificial Intelligence (GeoAI), GeoHealth, Geolocated Social Media Analysis
