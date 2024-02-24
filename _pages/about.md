@@ -1,4 +1,4 @@
----
+p---
 layout: about
 title: about
 permalink: /
@@ -6,7 +6,7 @@ subtitle: Assistant Professor, <a href='https://cas.okstate.edu/department_of_ge
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: people_taohu.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>337 Social Science and Humanities Building</p>
