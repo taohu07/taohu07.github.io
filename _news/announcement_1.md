@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: PhD student Una Yu was awarded the 2nd place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
+:sparkles: PhD student <mark>Una Yu</mark> was awarded the 2nd place prize of the Poster Presentation in 2023 SWAAG Annual Conference.
