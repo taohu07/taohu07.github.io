@@ -8,16 +8,14 @@ profile:
   align: right
   image: people_taohu.jpeg
   image_circular: false # crops the image to make it circular
-
+  more_info: >
+      <p>Email: tao.hu@okstate.edu</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={false}"
 social: true # includes social icons at the bottom of the page
 ---
-
- more_info: >
-    <p>Email: tao.hu@okstate.edu</p>
     
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
