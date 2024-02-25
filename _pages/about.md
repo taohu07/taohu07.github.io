@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cas.okstate.edu/department_of_geography/'> Assistant Professor, <a href='https://cas.okstate.edu/department_of_geography/'>Department of Geography, Oklahoma State University</a>.
+subtitle: <a href='https://cas.okstate.edu/department_of_geography/'> Assistant Professor, Department of Geography, Oklahoma State University</a>.
 
 profile:
   align: right
