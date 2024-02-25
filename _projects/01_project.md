@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understand Disease Dynamics in Oklahoma
-description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma. 
+description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma.
 img: assets/img/NSF-logo.png
 redirect: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
 importance: 1
