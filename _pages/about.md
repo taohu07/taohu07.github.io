@@ -9,7 +9,7 @@ profile:
   image: people_taohu.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p>    <a href="mailto:tao.hu@okstate.edu">Email Me</a> </p>
+      <p>    <a href="mailto:tao.hu@okstate.edu">Email: tao.hu at okstate.edu</a> </p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
