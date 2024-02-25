@@ -2,9 +2,9 @@
 layout: page
 title: Using socioeconomic, behavioral and environmental data to understand disease dynamics
 description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma. 
-img: assets/img/7.jpg
+img: assets/img/nsf_logo.png
 redirect: https://unsplash.com](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
-importance: 3
+importance: 1
 category: funded project
 ---
 
