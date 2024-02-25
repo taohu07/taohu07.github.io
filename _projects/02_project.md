@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Building sustainable health services in rural Oklahoma
+title: Building Sustainable Rural Healthcare Services
 description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma. 
 img: assets/img/rri_logo.png
-redirect: https://unsplash.com](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
+redirect: https://ruralrenewal.okstate.edu/site-files/documents/ruralhealthcareservices.pdf
 importance: 1
 category: work
 ---
