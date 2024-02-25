@@ -5,7 +5,7 @@ description: This project aims to develope data sources and mathematical models 
 img: assets/img/nsf_logo.png
 redirect: https://unsplash.com](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
 importance: 1
-category: funded project
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
