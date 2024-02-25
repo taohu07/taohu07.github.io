@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Using socioeconomic, behavioral and environmental data to understand disease dynamics
+description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma. 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://unsplash.com](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
 importance: 3
-category: work
+category: funded project
 ---
 
 Every project has a beautiful feature showcase page.
