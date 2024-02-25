@@ -2,7 +2,7 @@
 layout: page
 title: GEOG-3373 Health and Maps
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/geo_logo.jpg
 importance: 3
 category: course
 ---
