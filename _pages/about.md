@@ -30,6 +30,6 @@ I'm an Assistant Professor in the Department of Geography at Oklahoma State Univ
     <li>Geospatial Big Data Analytics</li>
     <li>Human Behavior and Population Health</li>
     <li>Geolocated Social Media Analysis</li>
-    <li>Geospatial Artificial Intelligence (GeoAI)</li>
+    <li>Applications of Geospatial Artificial Intelligence (GeoAI)</li>
   </ul>
 ---
