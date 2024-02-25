@@ -36,4 +36,4 @@ I'm an Assistant Professor in the Department of Geography at Oklahoma State Univ
     <li>Geolocated Social Media Analysis</li>
     <li>Geospatial Artificial Intelligence (GeoAI)</li>
   </ul>
-
+---
