@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building Sustainable Rural Healthcare Services
-description: This project aims to develope data sources and mathematical models that can be used to explore COVID-19 outcomes in Oklahoma. 
+description: This project aims to leverage mobile wellness units to increase healthcare service accessibility in rural Oklahoma. 
 img: assets/img/rri_logo.png
 redirect: https://ruralrenewal.okstate.edu/site-files/documents/ruralhealthcareservices.pdf
 importance: 1
