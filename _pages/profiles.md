@@ -14,11 +14,11 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: prof_pic.jpg
+    image: people_ehsan.jpg
     content: about_Ehsan.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: prof_pic.jpg
+    image: yu_una.jpg
     content: about_Una.md
     image_circular: false # crops the image to make it circular
   - align: left
