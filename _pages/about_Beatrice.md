@@ -1,1 +1,1 @@
-Beatrice Kim is a **undergraduate** student in Computer Science.
+Beatrice Kim is an **undergraduate** student in Computer Science.
