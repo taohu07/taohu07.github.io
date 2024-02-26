@@ -22,23 +22,23 @@ profiles:
     content: about_Una.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: prof_pic.jpg
+    image: 
     content: about_Taiping.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: prof_pic.jpg
+    image: 
     content: about_Charen.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: prof_pic.jpg
+    image: 
     content: about_Charen.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: prof_pic.jpg
+    image: 
     content: about_Karthik.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: prof_pic.jpg
+    image: 
     content: about_Beatrice.md
     image_circular: false # crops the image to make it circular
 ---
