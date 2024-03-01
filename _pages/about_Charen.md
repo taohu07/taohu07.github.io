@@ -1,1 +1,1 @@
-Venkat Sai Divyacharan Jarugumalli is a **Master** student at the Department of Computer Science.
+Venkat Sai Divycharan Jarugumalli is a **Master's**  student in the Department of Computer Science at Oklahoma State University. His professional experience includes working at Trianz, where he developed ETL pipelines in Microsoft Azure Data Factory using Snowflake as a data warehouse and developed pipelines in Airflow to encrypt PII data. He is passionate about expanding his expertise in Artificial Intelligence and Data Engineering.
