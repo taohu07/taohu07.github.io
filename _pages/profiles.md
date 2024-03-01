@@ -31,13 +31,9 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: left
     image: 
-    content: about_Charen.md
-    image_circular: false # crops the image to make it circular
-  - align: right
-    image: 
     content: about_Karthik.md
     image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     image: 
     content: about_Beatrice.md
     image_circular: false # crops the image to make it circular
