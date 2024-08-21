@@ -6,4 +6,6 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: PI <mark>Dr. Tao Hu</mark> was awarded a 3-year **NSF grant** which focus on integrating human behavior and waste water to enhance epidimological modeling.
+:sparkles: Team PI <mark>Dr. Tao Hu</mark> was awarded a 3-year **NSF grant** which focus on integrating human behavior and waste water to enhance epidimological modeling.
+
+Team PI <mark>Dr. Tao Hu</mark> was awarded a 3-year **NSF grant** focused on integrating human behavior and wastewater data to improve infecitous disease outbreaks detection and response. More details can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2421259&HistoricalAwards=false)
