@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PI Dr. Tao Hu was awarded a 3-year NSF grant which focus on integrating human behavior and waste water to enhance epidimological modeling.
-date: 2024-08-20 08:00:00-0400
+title: Master students won the 2nd place prize in the 204 CADRE conference.
+date: 2024-06-26 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-:sparkles: Team PI <mark>Dr. Tao Hu</mark> was awarded a 3-year **NSF grant** focused on integrating human behavior and wastewater data to improve infecitous disease outbreaks detection and response. More details can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2421259&HistoricalAwards=false)
+:sparkles: Congratulations! Master students <mark>Venkat Sai Divyacharan Jarugumalli</mark> and <mark>Taiping Liu</mark> was awarded **the 2st place prize** of the Poster Presentation in the 2024 CADRE (Coalition for Advancing Digital Research and Education) Conference.
