@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: PhD student <mark>Ehsan Foroutan</mark> received a travel award to attend NSF-funded I-GUIDE Summer School.
+:sparkles: PhD student <mark>Ehsan Foroutan</mark> received a **Travel Award** to attend NSF-funded I-GUIDE Summer School.
