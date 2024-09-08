@@ -9,18 +9,14 @@ layout: default
         {{ site.last_name }}
       {% else %}
         {{ site.title }}
-      {% endif %}
-
-              
+      {% endif %}    
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/CV-2024-TH.pdf' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
+            >CV<i class="fa-solid fa-file-pdf"></i></a>
      
-
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
