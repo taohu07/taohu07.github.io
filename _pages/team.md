@@ -35,7 +35,7 @@ nav_order: 5
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
     <img src="master_student1_photo_url" alt="Master Student 1" width="150" height="150">
-    <p>Master Student 1</p>
+    <p>Taiping Liu</p>
   </div>
   <div style="text-align: center;">
     <img src="master_student2_photo_url" alt="Master Student 2" width="150" height="150">
