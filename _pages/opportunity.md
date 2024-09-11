@@ -27,9 +27,7 @@ nav_order: 5
 - Human mobility
 - Spatial epidemiology
 
-Prospective students should submit their <strong>resumes</strong>, <strong>transcripts</strong>, and <strong>research plan</strong> to Dr. Hu via email at [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Successful applicants will receive mentorship and training to become prolific and independent scholars. You will have opportunities to publish in top-tier international conferences and journals, collaborate with world-class researchers, and establish yourself as a leader in the field.
-
-<!-- #### [OSU Graduate Application](https://gradcollege.okstate.edu) -->
+Prospective students should submit their <strong>resumes</strong>, <strong>transcripts</strong>, and <strong>research plan</strong> to Dr. Hu via email at [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Successful applicants will receive mentorship and training to become prolific and independent scholars. You will have opportunities to publish in top-tier international conferences and journals, collaborate with world-class researchers, and establish yourself as a leader in the field. [OSU Graduate Application](https://gradcollege.okstate.edu)
 
 ---
 
