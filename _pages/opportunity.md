@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /opportunity/
-title: Opportunity
+title: JOIN US
 nav: true
 nav_order: 5
 # pagination:
@@ -16,7 +16,7 @@ nav_order: 5
 #     after: 3 # The number of links after the current page
 ---
 
-# Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/Human Mobility/GeoAI
+### Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/Human Mobility/GeoAI
 
 #### Dr. **Tao Hu** invites applications for multiple fully funded Graduate Research Assistant (GRA) positions starting as early as Spring 2025. Applicants with backgrounds in GIS, Remote Sensing, Computer Science, Informatics, Mathematics, Statistics, Epidemiology, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
 
