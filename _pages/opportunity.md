@@ -31,6 +31,8 @@ Prospective students can send [resumes], [transcripts], and [research plan] to D
 
 [OSU Graduate Application](https://gradcollege.okstate.edu)
 
+---
+
 ### About Oklahoma State University
 
 <div style="display: flex;">
@@ -39,11 +41,15 @@ Prospective students can send [resumes], [transcripts], and [research plan] to D
     U.S. News and World Report named Oklahoma State University a <strong>Top 100 Public School</strong> in the 2023-2024 Best College Rankings list. </p>
 </div>
 
+---
+
 ### Life at Oklahoma State University
 <div style="display: flex;">
     <img src="https://www.re-thinkingthefuture.com/wp-content/uploads/2023/01/A8977-Campus-life-at-Oklahoma-State-University-770x515.jpg?w=999" alt="Oklahoma State University" style="width: 400px; height: auto; margin-right: 20px;">
     <p>Graduate student life at Oklahoma State University (OSU) offers a vibrant and supportive environment, particularly for international students. OSU is dedicated to fostering a welcoming and inclusive atmosphere that celebrates diverse cultures and perspectives. International students at OSU have access to numerous resources through the International Students and Scholars Office, which provides guidance on immigration, cultural adaptation, and academic support. The university hosts various cultural events and social gatherings, which are great opportunities for international students to meet peers from around the world and build a supportive community. Academically, OSU provides graduate students with top-notch research facilities, dedicated faculty mentors, and a wide range of programs to advance their careers. The campus life is enriched with professional development workshops, seminars, and social events, ensuring a well-rounded experience that prepares students for global challenges.</p>
 </div>
+
+---
 
 ### Sports at Oklahoma State University
 <div style="display: flex;">
