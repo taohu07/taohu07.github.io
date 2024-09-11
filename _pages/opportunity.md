@@ -18,18 +18,18 @@ nav_order: 5
 
 # Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/Human Mobility/GeoAI
 
-Dr. **Tao Hu** invites applications for multiple fully funded Graduate Research Assistant (GRA) positions starting as early as Spring 2025. Applicants with backgrounds in GIS, Remote Sensing, Computer Science, Informatics, Mathematics, Statistics, Epidemiology, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
+#### Dr. **Tao Hu** invites applications for multiple fully funded Graduate Research Assistant (GRA) positions starting as early as Spring 2025. Applicants with backgrounds in GIS, Remote Sensing, Computer Science, Informatics, Mathematics, Statistics, Epidemiology, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
 
-- Geospatial big data anlaytics
-- Human behavior and public health
-- Location-based social media data analytics
-- Geospatial Artifcial Intelligence (GeoAI)
-- Human mobility
-- Spatial epidemiology
+#### - Geospatial big data anlaytics
+#### - Human behavior and public health
+#### - Location-based social media data analytics
+#### - Geospatial Artifcial Intelligence (GeoAI)
+#### - Human mobility
+#### - Spatial epidemiology
 
-Prospective students should submit their <strong>resumes</strong>, <strong>transcripts</strong>, and <strong>research plan</strong> to Dr. Hu via email at [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Successful applicants will receive mentorship and training to become prolific and independent scholars. You will have opportunities to publish in top-tier international conferences and journals, collaborate with world-class researchers, and establish yourself as a leader in the field.
+#### Prospective students should submit their <strong>resumes</strong>, <strong>transcripts</strong>, and <strong>research plan</strong> to Dr. Hu via email at [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Successful applicants will receive mentorship and training to become prolific and independent scholars. You will have opportunities to publish in top-tier international conferences and journals, collaborate with world-class researchers, and establish yourself as a leader in the field.
 
-[OSU Graduate Application](https://gradcollege.okstate.edu)
+#### [OSU Graduate Application](https://gradcollege.okstate.edu)
 
 ---
 
