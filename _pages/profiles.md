@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: team
 description: members of the team
-nav: true
+nav: false
 nav_order: 4
 
 profiles:
