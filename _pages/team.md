@@ -3,7 +3,7 @@ layout: default
 permalink: /team/
 title: team
 nav: true
-nav_order: 4
+nav_order: 6
 # pagination:
 #   enabled: true
 #   collection: posts
@@ -15,6 +15,7 @@ nav_order: 4
 #     before: 1 # The number of links before the current page
 #     after: 3 # The number of links after the current page
 ---
+#### PhD Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
@@ -29,6 +30,7 @@ nav_order: 4
 </div>
 
 ---
+#### Master Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
