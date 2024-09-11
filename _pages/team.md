@@ -49,7 +49,7 @@ nav_order: 5
 </div>
 
 ---
-#### Master Students
+#### Undergraduate Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; width: 30%;">
