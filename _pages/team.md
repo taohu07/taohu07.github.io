@@ -38,11 +38,11 @@ nav_order: 5
     <p><strong>Taiping Liu</strong></p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/charen.jpeg" alt="Venkat Sai Divyacharan Jarugumalli" style="width: 100%; height: auto;">
+    <img src="/assets/img/people/charen-small.jpeg" alt="Venkat Sai Divyacharan Jarugumalli" style="width: 100%; height: auto;">
     <p><strong>Venkat Sai Divyacharan Jarugumalli</strong></p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/karthik.jpg" alt="Sai Karthik Nakka" style="width: 100%; height: auto;">
+    <img src="/assets/img/people/karthik-small.jpg" alt="Sai Karthik Nakka" style="width: 100%; height: auto;">
     <p><strong>Sai Karthik Nakka</strong></p>
   </div>
   <!-- Add more students similarly -->
