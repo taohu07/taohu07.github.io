@@ -19,11 +19,11 @@ nav_order: 5
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" style="width: 100%; height: auto;">>
+    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" style="width: 100%; height: auto;">
     <p>Ehsan Foroutan</p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" style="width: 100%; height: auto;">>
+    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" style="width: 100%; height: auto;">
     <p>Una Yunixiaona Yu</p>
   </div>
   <!-- Add more students similarly -->
@@ -33,13 +33,36 @@ nav_order: 5
 #### Master Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="master_student1_photo_url" alt="Master Student 1" width="150" height="150">
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/taiping.jpg" alt="Taiping Liu" style="width: 100%; height: auto;">
     <p>Taiping Liu</p>
   </div>
-  <div style="text-align: center;">
-    <img src="master_student2_photo_url" alt="Master Student 2" width="150" height="150">
-    <p>Master Student 2</p>
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/charen.jpeg" alt="Venkat Sai Divyacharan Jarugumalli" style="width: 100%; height: auto;">
+    <p>Venkat Sai Divyacharan Jarugumalli</p>
+  </div>
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/karthik.jpg" alt="Sai Karthik Nakka" style="width: 100%; height: auto;">
+    <p>Sai Karthik Nakka</p>
+  </div>
+  <!-- Add more students similarly -->
+</div>
+
+---
+#### Master Students
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/kim_beatrice.jpg" alt="Kim Beatrice" style="width: 100%; height: auto;">
+    <p>Kim Beatrice</p>
+  </div>
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/jacob.jpg" alt="Jacob Mote" style="width: 100%; height: auto;">
+    <p>Jacob Mote</p>
+  </div>
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/nobody.png" alt="Alexis Moran" style="width: 100%; height: auto;">
+    <p>Alexis Moran</p>
   </div>
   <!-- Add more students similarly -->
 </div>
