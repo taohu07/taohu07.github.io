@@ -27,7 +27,7 @@ Dr. **Tao Hu** invites applications for multiple fully funded GRA positions star
 - Human mobility
 - Spatial epidemiology
 
-Prospective students can send resumes, transcripts, and research plan to Dr. Hu’s email: [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Admitted applicants will be mentored and trained as prolific and independent scholars. You will publish at top-tier international conferences and journals, network with world-class researchers, and become a national and international leader in the field.
+Prospective students can send [resumes], [transcripts], and [research plan] to Dr. Hu’s email: [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Admitted applicants will be mentored and trained as prolific and independent scholars. You will publish at top-tier international conferences and journals, network with world-class researchers, and become a national and international leader in the field.
 
 [OSU Graduate Application](https://gradcollege.okstate.edu)
 
