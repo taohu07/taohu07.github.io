@@ -18,12 +18,12 @@ nav_order: 7
 #### PhD Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" width="150" height="150">
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" style="width: 100%; height: auto;">>
     <p>Ehsan Foroutan</p>
   </div>
-  <div style="text-align: center;">
-    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" width="150" height="150">
+  <div style="text-align: center; width: 30%;">
+    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" style="width: 100%; height: auto;">>
     <p>Una Yunixiaona Yu</p>
   </div>
   <!-- Add more students similarly -->
