@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /opportunity/
-title: blog
+title: Opportunity
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
@@ -24,7 +24,7 @@ The Sustainable Urban Futures (SURF) Lab is led by Dr. Chenghao Wang and is in t
 
 # About the University of Oklahoma
 
-![University of Oklahoma Logo](URL_TO_THE_IMAGE)
+![University of Oklahoma Logo](https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fokstate.com%2Fimages%2F2019%2F6%2F12%2Ffac_bps_19.jpg&width=1600&height=900&type=webp)
 
 Founded in 1890, the University of Oklahoma is a public research university located in Norman, Oklahoma just 20 minutes south of Oklahoma City, one of the top 50 metropolitan areas in the United States. The university is classified among "R1: Doctoral Universities – Very high research activity" (Carnegie Classification).
 
