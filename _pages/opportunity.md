@@ -16,9 +16,9 @@ nav_order: 5
 #     after: 3 # The number of links after the current page
 ---
 
-### Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/Human Mobility/GeoAI
+### Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/GeoAI
 
- Dr. **Tao Hu** invites applications for multiple fully funded Graduate Research Assistant (GRA) positions starting as early as <strong>Spring 2025</strong>. Applicants with backgrounds in GIS, Remote Sensing, Computer Science, Informatics, Mathematics, Statistics, Epidemiology, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
+ Dr. **Tao Hu** invites applications for multiple fully funded Graduate Research Assistant (GRA) positions starting as early as <strong>Spring 2025</strong>. The GRA will primarily focus on two recently funded National Science Foundation (NSF) projects, which aim to integrate human behavior with disease models to enhance preparedness and responses to health crises (e.g., the COVID-19 pandemic). Applicants with backgrounds in GIS, Remote Sensing, Computer Science, Informatics, Mathematics, Statistics, Epidemiology, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
 
 - Geospatial big data anlaytics
 - Human behavior and public health
@@ -29,7 +29,7 @@ nav_order: 5
 
 Prospective students should submit their <strong>resumes</strong>, <strong>transcripts</strong>, and <strong>research plan</strong> to Dr. Hu via email at [tao.hu@okstate.edu](mailto:tao.hu@okstate.edu). Successful applicants will receive mentorship and training to become prolific and independent scholars. You will have opportunities to publish in top-tier international conferences and journals, collaborate with world-class researchers, and establish yourself as a leader in the field.
 
-#### [OSU Graduate Application](https://gradcollege.okstate.edu)
+<!-- #### [OSU Graduate Application](https://gradcollege.okstate.edu) -->
 
 ---
 
