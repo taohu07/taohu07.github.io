@@ -4,7 +4,7 @@ title: Integrating Wastewater Surveillance and Human Behavior to Decode Epidemio
 description: This project aims to enhance mathematical epidemiological modeling by integrating human behavioral data with wastewater surveillance data, creating a more comprehensive and timely approach to outbreak detection and response.
 img: assets/img/NSF-logo.png
 redirect: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
-importance: 1
+importance: 2
 category: funded
 ---
 
