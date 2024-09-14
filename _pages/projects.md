@@ -5,8 +5,8 @@ permalink: /projects/
 description: A growing collection of funded projects and other ongoing work.
 nav: true
 nav_order: 3
-display_categories: [funded, others]
-horizontal: false
+display_categories: []
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
