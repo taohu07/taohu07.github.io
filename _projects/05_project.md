@@ -2,7 +2,7 @@
 layout: page
 title: Leveraging Generative Artificial Intelligence (AI) for Automated Climate Resilience Dashboards-A Case Study on Flood Monitoring in Central Appalachia
 description: This project aims to transform climate resilience efforts by developing and automating dashboards with cutting-edge generative pre-trained transformer (GPT) tools.
-img: assets/img/esip-logo.png
+img: assets/img/esip-logo_0.png
 redirect: https://www.esipfed.org/lab/rfp/
 importance: 5
 category: external
