@@ -5,7 +5,7 @@ description: This project aims to transform climate resilience efforts by develo
 img: assets/img/esip-logo.png
 redirect: https://www.esipfed.org/lab/rfp/
 importance: 5
-category: funded
+category: external
 ---
 
 Every project has a beautiful feature showcase page.

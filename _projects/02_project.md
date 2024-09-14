@@ -5,7 +5,7 @@ description: This project aims to leverage mobile wellness units to increase hea
 img: assets/img/rri_logo.png
 redirect: https://ruralrenewal.okstate.edu/site-files/documents/ruralhealthcareservices.pdf
 importance: 4
-category: funded
+category: internal
 ---
 
 Every project has a beautiful feature showcase page.

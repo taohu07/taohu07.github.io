@@ -5,7 +5,7 @@ description: This project aims to enhance mathematical epidemiological modeling 
 img: assets/img/NSF-logo.png
 redirect: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327844&HistoricalAwards=false
 importance: 2
-category: funded
+category: external
 ---
 
 Every project has a beautiful feature showcase page.

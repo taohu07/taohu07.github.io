@@ -5,7 +5,7 @@ description: This project aims to develope a pathogen monitoring platform.
 img: assets/img/usda-logo.png
 redirect: https://www.usda.gov/
 importance: 2
-category: funded
+category: external
 ---
 
 Every project has a beautiful feature showcase page.
