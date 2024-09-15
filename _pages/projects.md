@@ -22,9 +22,11 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1">
+    <div class="row row-cols-1" style="display: flex; flex-wrap: wrap;">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      <div style="flex: 1 1 auto;">
+        {% include projects_horizontal.liquid %}
+      </div>
     {% endfor %}
     </div>
   </div>
