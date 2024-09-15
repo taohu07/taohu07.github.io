@@ -54,7 +54,7 @@ horizontal: true
 
   <!-- Generate cards for each project -->
 
-{% if page.horizontal %}
+<!-- {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1">
@@ -69,6 +69,6 @@ horizontal: true
       {% include projects.liquid %}
     {% endfor %}
   </div>
-  {% endif %}
+  {% endif %} -->
 {% endif %}
 </div>
