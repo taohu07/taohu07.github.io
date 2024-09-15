@@ -4,7 +4,7 @@ title: Leveraging Generative Artificial Intelligence (AI) for Automated Climate 
 description: This project aims to transform climate resilience efforts by developing and automating dashboards with cutting-edge generative pre-trained transformer (GPT) tools.
 img: assets/img/esip-logo_small.png
 redirect: https://www.esipfed.org/lab/rfp/
-importance: 5
+importance: 3
 category: external
 ---
 

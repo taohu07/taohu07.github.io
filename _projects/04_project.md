@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Developing and Integrating Pathogen Monitoring Platform
-description: This project aims to develope a pathogen monitoring platform.
+description: This project seeks to develop a comprehensive pathogen monitoring platform designed to track, detect, and analyze the presence of harmful pathogens in various environments. By integrating advanced technologies such as real-time data collection, machine learning algorithms for detection, and geospatial analytics, the platform will provide timely insights into pathogen trends and spread patterns.
 img: assets/img/usda-logo_small.png
 redirect: https://www.usda.gov/
-importance: 2
+importance: 4
 category: external
 ---
 
