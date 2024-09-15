@@ -7,7 +7,7 @@
             {% include figure.liquid loading="eager" path=project.img  alt="project thumbnail" %}
           </div>
         {% endif %}
-        <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
+        <div class="{% if project.img %}col-md-9{% else %}col-md-12{% endif %}">
           <div class="card-body">
             <h3 class="card-title text-lowercase">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
