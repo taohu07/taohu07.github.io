@@ -2,7 +2,7 @@
 layout: page
 title: Building Sustainable Rural Healthcare Services
 description: This project aims to leverage mobile wellness units to increase healthcare service accessibility in rural Oklahoma. 
-img: assets/img/rri_logo.png
+img: assets/img/rri_logo_small.png
 redirect: https://ruralrenewal.okstate.edu/site-files/documents/ruralhealthcareservices.pdf
 importance: 10
 category: internal
