@@ -94,6 +94,10 @@ nav_order: 4
     <span class="team-name">Una Lixiaona Yu</span>
     <span class="team-role">Geography</span>
   </div>
+  <div class="team-card">
+    <img src="/assets/img/people/nobody.png" alt="Yuxin Cao" loading="lazy">
+    <span class="team-name">Yuxin Cao</span>
+  </div>
 </div>
 
 <h2 class="team-section">Alumni</h2>
