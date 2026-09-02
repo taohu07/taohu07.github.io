@@ -20,7 +20,7 @@ nav_order: 4
   .team-grid {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 1.5rem 1.25rem;
     margin-bottom: 2rem;
   }
@@ -52,16 +52,33 @@ nav_order: 4
     color: var(--global-text-color-light);
     line-height: 1.3;
   }
+  .team-grid.alumni .team-card {
+    flex: 1 1 130px;
+    min-width: 120px;
+    max-width: 150px;
+  }
+  .team-section {
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  .team-subsection {
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: var(--global-text-color-light);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
 </style>
 
-#### PhD Students
+<h2 class="team-section">Current Members</h2>
+
+<h5 class="team-subsection">PhD Students</h5>
 
 <div class="team-grid">
-  <div class="team-card">
-    <img src="{{ '/assets/img/people/people_ehsan.jpg' | relative_url }}" alt="Ehsan Foroutan" loading="lazy">
-    <span class="team-name">Ehsan Foroutan</span>
-    <span class="team-role">Geography</span>
-  </div>
   <div class="team-card">
     <img src="{{ '/assets/img/people/yu_una.jpg' | relative_url }}" alt="Una Lixiaona Yu" loading="lazy">
     <span class="team-name">Una Lixiaona Yu</span>
@@ -69,11 +86,21 @@ nav_order: 4
   </div>
 </div>
 
----
+<h2 class="team-section">Alumni</h2>
 
-#### Master Students
+<h5 class="team-subsection">PhD</h5>
 
-<div class="team-grid">
+<div class="team-grid alumni">
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/people_ehsan.jpg' | relative_url }}" alt="Ehsan Foroutan" loading="lazy">
+    <span class="team-name">Ehsan Foroutan</span>
+    <span class="team-role">PhD, Geography, 2025</span>
+  </div>
+</div>
+
+<h5 class="team-subsection">Master's</h5>
+
+<div class="team-grid alumni">
   <div class="team-card">
     <img src="{{ '/assets/img/people/taiping.jpg' | relative_url }}" alt="Taiping Liu" loading="lazy">
     <span class="team-name">Taiping Liu</span>
@@ -91,11 +118,9 @@ nav_order: 4
   </div>
 </div>
 
----
+<h5 class="team-subsection">Undergraduate</h5>
 
-#### Undergraduate Students
-
-<div class="team-grid">
+<div class="team-grid alumni">
   <div class="team-card">
     <img src="{{ '/assets/img/people/kim_beatrice.jpg' | relative_url }}" alt="Beatrice Kim" loading="lazy">
     <span class="team-name">Beatrice Kim</span>
