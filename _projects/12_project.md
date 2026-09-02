@@ -2,7 +2,7 @@
 layout: page
 title: "Transforming Rural Health: Strategies for Effective Mobile Health Clinic Deployment"
 description: This project investigates how mobile health clinics can be deployed most effectively to expand healthcare access in rural communities.
-img:
+img: assets/img/nih-logo_small.png
 redirect:
 importance: 0
 category: external
