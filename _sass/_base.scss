@@ -690,6 +690,13 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
+
+    // On narrow screens the entries span the full width, so the negative
+    // margin would pull titles underneath the year.
+    @media (max-width: 768px) {
+      margin-bottom: 0.5rem;
+      font-size: 1.5rem;
+    }
   }
 
   ol.bibliography {
