@@ -76,6 +76,16 @@ nav_order: 4
 
 <h2 class="team-section">Current Members</h2>
 
+<h5 class="team-subsection">Principal Investigator</h5>
+
+<div class="team-grid">
+  <div class="team-card">
+    <img src="{{ '/assets/img/people_taohu.jpeg' | relative_url }}" alt="Tao Hu" loading="lazy">
+    <span class="team-name"><a href="{{ '/' | relative_url }}">Tao Hu</a></span>
+    <span class="team-role">Assistant Professor, Geography</span>
+  </div>
+</div>
+
 <h5 class="team-subsection">PhD Students</h5>
 
 <div class="team-grid">
