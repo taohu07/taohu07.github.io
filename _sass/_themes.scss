@@ -16,6 +16,8 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
+  // Year headings on the publications page: readable, but below body text
+  --global-year-color: #{$grey-color};
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -61,6 +63,8 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
+  // text-color-light equals text-color in this theme, so the year needs its own
+  --global-year-color: #{$grey-color};
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
