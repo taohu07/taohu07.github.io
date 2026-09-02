@@ -540,6 +540,14 @@ footer.sticky-bottom {
   }
 }
 
+// "cv" link floated beside the name in the about page header
+.post-title .cv-link {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  margin-top: 0.9rem;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
