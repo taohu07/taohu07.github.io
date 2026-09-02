@@ -18,12 +18,12 @@ nav_order: 5
 
 ### Fully Funded GRA/GTA Positions in GIS/GeoHealth/Geospatial Big Data Analytics/GeoAI
 
-[Dr. Tao Hu](https://taohu07.github.io/) invites applications for fully funded PhD Research Assistant position starting in <strong>Fall 2025</strong>. The GRA will primarily focus on two recently funded **National Science Foundation (NSF)** [projects](https://taohu07.github.io/projects/), which aim to <ins>integrate human behavior with disease models to enhance preparedness and responses to health crises (e.g., the COVID-19 pandemic)</ins>. Applicants with backgrounds in **GIS**, **Computer Science**, **Informatics**, **Mathematics**, **Statistics**, **Epidemiology**, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
+[Dr. Tao Hu](https://taohu07.github.io/) invites applications for fully funded PhD Research Assistant positions starting in <strong>Spring 2027</strong> or <strong>Fall 2027</strong>. The GRA will primarily focus on recently funded **National Science Foundation (NSF)** and **National Institutes of Health (NIH)** [projects](https://taohu07.github.io/projects/), using <ins>GIS and GeoAI to address pressing public health challenges</ins>. Applicants with backgrounds in **GIS**, **Computer Science**, **Informatics**, **Mathematics**, **Statistics**, **Epidemiology**, or any related area are welcome to apply. Preference will be given to candidates who are highly motivated, proficient in GIS tools (e.g., ArcGIS Pro), familiar with quantitative methods, comfortable with programming, eager to learn, hardworking, and interested in an area related to Dr. Hu's research focuses, including:
 
-- Geospatial big data anlaytics
+- Geospatial big data analytics
 - Human behavior and public health
 - Location-based social media data analytics
-- Geospatial Artifcial Intelligence (GeoAI)
+- Geospatial Artificial Intelligence (GeoAI)
 - Human mobility
 - Spatial epidemiology
 
