@@ -15,54 +15,98 @@ nav_order: 4
 #     before: 1 # The number of links before the current page
 #     after: 3 # The number of links after the current page
 ---
+
+<style>
+  .team-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .team-card {
+    flex: 1 1 150px;
+    min-width: 140px;
+    max-width: 200px;
+    text-align: center;
+  }
+  .team-card img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center 20%;
+    border-radius: 8px;
+    display: block;
+    background-color: var(--global-bg-color);
+  }
+  .team-card .team-name {
+    display: block;
+    margin-top: 0.6rem;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  .team-card .team-role {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    line-height: 1.3;
+  }
+</style>
+
 #### PhD Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" style="width: 100%; height: auto;">
-    <p><strong>Ehsan Foroutan</strong></p>
+<div class="team-grid">
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/people_ehsan.jpg' | relative_url }}" alt="Ehsan Foroutan" loading="lazy">
+    <span class="team-name">Ehsan Foroutan</span>
+    <span class="team-role">Geography</span>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" style="width: 100%; height: auto;">
-    <p><strong>Una Yunixiaona Yu</strong></p>
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/yu_una.jpg' | relative_url }}" alt="Una Lixiaona Yu" loading="lazy">
+    <span class="team-name">Una Lixiaona Yu</span>
+    <span class="team-role">Geography</span>
   </div>
-  <!-- Add more students similarly -->
 </div>
 
 ---
+
 #### Master Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/taiping.jpg" alt="Taiping Liu" style="width: 100%; height: auto;">
-    <p><strong>Taiping Liu</strong></p>
+<div class="team-grid">
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/taiping.jpg' | relative_url }}" alt="Taiping Liu" loading="lazy">
+    <span class="team-name">Taiping Liu</span>
+    <span class="team-role">Statistics</span>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/charen-small.jpeg" alt="Venkat Sai Divyacharan Jarugumalli" style="width: 100%; height: auto;">
-    <p><strong>Venkat Sai Divyacharan Jarugumalli</strong></p>
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/charen-small.jpeg' | relative_url }}" alt="Venkat Sai Divyacharan Jarugumalli" loading="lazy">
+    <span class="team-name">Venkat Sai Divyacharan Jarugumalli</span>
+    <span class="team-role">Computer Science</span>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/karthik-small.jpg" alt="Sai Karthik Nakka" style="width: 100%; height: auto;">
-    <p><strong>Sai Karthik Nakka</strong></p>
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/karthik-small.jpg' | relative_url }}" alt="Sai Karthik Nakka" loading="lazy">
+    <span class="team-name">Sai Karthik Nakka</span>
+    <span class="team-role">Engineering</span>
   </div>
-  <!-- Add more students similarly -->
 </div>
 
 ---
+
 #### Undergraduate Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/kim_beatrice.jpg" alt="Kim Beatrice" style="width: 100%; height: auto;">
-    <p><strong>Kim Beatrice</strong></p>
+<div class="team-grid">
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/kim_beatrice.jpg' | relative_url }}" alt="Beatrice Kim" loading="lazy">
+    <span class="team-name">Beatrice Kim</span>
+    <span class="team-role">Computer Science</span>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/jacob.jpg" alt="Jacob Mote" style="width: 100%; height: auto;">
-    <p><strong>Jacob Mote</strong></p>
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/jacob.jpg' | relative_url }}" alt="Jacob Mote" loading="lazy">
+    <span class="team-name">Jacob Mote</span>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="/assets/img/people/nobody.png" alt="Alexis Moran" style="width: 100%; height: auto;">
-    <p><strong>Alexis Moran</strong></p>
+  <div class="team-card">
+    <img src="{{ '/assets/img/people/nobody.png' | relative_url }}" alt="Alexis Moran" loading="lazy">
+    <span class="team-name">Alexis Moran</span>
   </div>
-  <!-- Add more students similarly -->
 </div>

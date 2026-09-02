@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I taught.
-nav: false
-nav_order: 6
+description: Courses I teach at Oklahoma State University.
+nav: true
+nav_order: 5
 display_categories: [course]
 ---
 

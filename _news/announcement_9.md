@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Team PI <mark>Dr. Tao Hu</mark> gave a presentation, entitled 'Geospatial Big Data in Public Health', at the Seminer hosted by the Department of Natural Resource Ecology & Management (NREM) at OSU.
+:sparkles: Team PI <mark>Dr. Tao Hu</mark> gave a presentation, entitled 'Geospatial Big Data in Public Health', at the seminar hosted by the Department of Natural Resource Ecology & Management (NREM) at OSU.
