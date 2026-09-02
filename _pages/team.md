@@ -80,8 +80,8 @@ nav_order: 4
 
 <div class="team-grid">
   <div class="team-card">
-    <img src="{{ '/assets/img/people_taohu.jpeg' | relative_url }}" alt="Tao Hu" loading="lazy">
-    <span class="team-name"><a href="{{ '/' | relative_url }}">Tao Hu</a></span>
+    <img src="/assets/img/people_taohu.jpeg" alt="Tao Hu" loading="lazy">
+    <span class="team-name"><a href="/">Tao Hu</a></span>
     <span class="team-role">Assistant Professor, Geography</span>
   </div>
 </div>
@@ -90,7 +90,7 @@ nav_order: 4
 
 <div class="team-grid">
   <div class="team-card">
-    <img src="{{ '/assets/img/people/yu_una.jpg' | relative_url }}" alt="Una Lixiaona Yu" loading="lazy">
+    <img src="/assets/img/people/yu_una.jpg" alt="Una Lixiaona Yu" loading="lazy">
     <span class="team-name">Una Lixiaona Yu</span>
     <span class="team-role">Geography</span>
   </div>
@@ -102,7 +102,7 @@ nav_order: 4
 
 <div class="team-grid alumni">
   <div class="team-card">
-    <img src="{{ '/assets/img/people/people_ehsan.jpg' | relative_url }}" alt="Ehsan Foroutan" loading="lazy">
+    <img src="/assets/img/people/people_ehsan.jpg" alt="Ehsan Foroutan" loading="lazy">
     <span class="team-name">Ehsan Foroutan</span>
     <span class="team-role">PhD, Geography, 2025</span>
   </div>
@@ -112,17 +112,17 @@ nav_order: 4
 
 <div class="team-grid alumni">
   <div class="team-card">
-    <img src="{{ '/assets/img/people/taiping.jpg' | relative_url }}" alt="Taiping Liu" loading="lazy">
+    <img src="/assets/img/people/taiping.jpg" alt="Taiping Liu" loading="lazy">
     <span class="team-name">Taiping Liu</span>
     <span class="team-role">Statistics</span>
   </div>
   <div class="team-card">
-    <img src="{{ '/assets/img/people/charen-small.jpeg' | relative_url }}" alt="Venkat Sai Divyacharan Jarugumalli" loading="lazy">
+    <img src="/assets/img/people/charen-small.jpeg" alt="Venkat Sai Divyacharan Jarugumalli" loading="lazy">
     <span class="team-name">Venkat Sai Divyacharan Jarugumalli</span>
     <span class="team-role">Computer Science</span>
   </div>
   <div class="team-card">
-    <img src="{{ '/assets/img/people/karthik-small.jpg' | relative_url }}" alt="Sai Karthik Nakka" loading="lazy">
+    <img src="/assets/img/people/karthik-small.jpg" alt="Sai Karthik Nakka" loading="lazy">
     <span class="team-name">Sai Karthik Nakka</span>
     <span class="team-role">Engineering</span>
   </div>
@@ -132,16 +132,16 @@ nav_order: 4
 
 <div class="team-grid alumni">
   <div class="team-card">
-    <img src="{{ '/assets/img/people/kim_beatrice.jpg' | relative_url }}" alt="Beatrice Kim" loading="lazy">
+    <img src="/assets/img/people/kim_beatrice.jpg" alt="Beatrice Kim" loading="lazy">
     <span class="team-name">Beatrice Kim</span>
     <span class="team-role">Computer Science</span>
   </div>
   <div class="team-card">
-    <img src="{{ '/assets/img/people/jacob.jpg' | relative_url }}" alt="Jacob Mote" loading="lazy">
+    <img src="/assets/img/people/jacob.jpg" alt="Jacob Mote" loading="lazy">
     <span class="team-name">Jacob Mote</span>
   </div>
   <div class="team-card">
-    <img src="{{ '/assets/img/people/nobody.png' | relative_url }}" alt="Alexis Moran" loading="lazy">
+    <img src="/assets/img/people/nobody.png" alt="Alexis Moran" loading="lazy">
     <span class="team-name">Alexis Moran</span>
   </div>
 </div>

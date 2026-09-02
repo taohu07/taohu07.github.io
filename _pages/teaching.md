@@ -8,7 +8,6 @@ nav_order: 5
 display_categories: [course]
 ---
 
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
